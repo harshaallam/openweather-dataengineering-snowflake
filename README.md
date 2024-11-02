@@ -1,4 +1,4 @@
-# OpenWeather Data Engineering with Snowflake
+# OpenWeather API Data Engineering with Snowflake
 
 This project leverages Snowflake as the data warehouse for efficient loading, storage, and processing of weather data, while maintaining the core architecture from the previous project [`openweather-data-etl-python-aws`](https://github.com/harshaallam/openweather-data-etl-python-aws).
 
